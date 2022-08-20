@@ -33,6 +33,28 @@ const quiz = [
     ],
     //正解（答え）
     correct: 'ティーダ'
+  },{
+    question: 'Apple社では無い物は？',
+    //選択肢
+    answers:  [
+      'iphone',
+      'ipad',
+      'Mac',
+      'Windows'
+    ],
+    //正解（答え）
+    correct: 'Windows'
+  },{
+    question: '中国地方でない県は？',
+    //選択肢
+    answers:  [
+      '岡山県',
+      '広島県',
+      '兵庫県',
+      '山口県'
+    ],
+    //正解（答え）
+    correct: '兵庫県'
   }
 ];
 
